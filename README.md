@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rachana Uniyal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img  align=”right” alt=”coding” src=”https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif”/>
+<img  align="right" alt="coding" src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachana-uniyal&label=Profile%20views&color=0e75b6&style=flat" alt="rachana-uniyal" /> </p>
 
