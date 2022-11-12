@@ -1,5 +1,5 @@
-<!-- https://previews.123rf.com/images/attostock/attostock1908/attostock190800085/128830329-programming-horizontal-banner-tech-application-software-development-man-woman-programmer-designer-wo.jpg -->
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+[![MasterHead](https://previews.123rf.com/images/attostock/attostock1908/attostock190800085/128830329-programming-horizontal-banner-tech-application-software-development-man-woman-programmer-designer-wo.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rachana Uniyal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img  align="right" alt="coding" src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
