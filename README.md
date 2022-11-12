@@ -1,7 +1,7 @@
 
 [![MasterHead](https://www.digiwebart.com/wp-content/uploads/2019/01/Website-Development.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rachana Uniyal</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Passionate Web Developer from India</h3>
 <img  align="right" alt="coding" src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachana-uniyal&label=Profile%20views&color=0e75b6&style=flat" alt="rachana-uniyal" /> </p>
