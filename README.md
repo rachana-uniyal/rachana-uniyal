@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript**, **HTML**, **CSS**
 
 - 📫 How to reach me **rachanauniyal0417@gmail.com**
 
